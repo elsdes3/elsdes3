@@ -19,7 +19,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-[![Renee Noble GitHub contributions](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=elsdes3&bg_color=efefefd&color=5896ef&line=da5b0b&point=da5b0b&hide_border=true)](https://github.com/elsdes3/github-readme-activity-graph)
+[![GitHub contributions](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=elsdes3&bg_color=efefefd&color=5896ef&line=da5b0b&point=da5b0b&hide_border=true)](https://github.com/elsdes3/github-readme-activity-graph)
 
 ##  GitHub Stats &#x1f4c8;
 
