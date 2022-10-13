@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Twitter link to @edesz](https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/edesz)
+[![Twitter link to @elsdes3](https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/elsdes3)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elstand/)
 [![Stackoverflow](https://img.shields.io/badge/-StackOverflow-0072b1?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4057186/edesz)
 
