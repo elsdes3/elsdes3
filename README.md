@@ -5,6 +5,7 @@
   [![Stackoverflow](https://img.shields.io/badge/-StackOverflow-0072b1?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4057186/edesz)
   ![Profile views](https://gpvc.arturio.dev/elsdes3)
   ![Followers](https://img.shields.io/github/followers/elsdes3?label=Followers&style=flat-square)
+  [![Stars](https://img.shields.io/github/stars/elsdes3?label=Stars&style=flat-square)](https://github.com/elsdes3?tab=stars)
   [![Blog](https://img.shields.io/badge/Website-PersonalBlog-red?style=flat-square)](https://elsdes3.github.io/analytics-ops-implementation-overload/)
 
 </div>
